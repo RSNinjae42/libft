@@ -12,3 +12,5 @@
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/RSNinjae42/libft?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RSNinjae42/libft?color=green" />
 </p>
+
+Este es tu primer proyecto como estudiante de 42. Deberás programar algunas funciones de la librería estándar de C, así como otras funciones que te serán útiles a lo largo de todo tu cursus.
